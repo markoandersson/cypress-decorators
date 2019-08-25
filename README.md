@@ -7,6 +7,8 @@ Enables Javascript decorators for Cypress by adding the required babel-plugins i
 Uses decorators to initialize class fields which have been annotated with @Element-annotation and provided with Cypress selector.
 The idea of decorators is the same than which is used for example in Java's Selenium-framework.
 
+Cypress tests are located [here](cypress/integration)
+
 ## Running
 
 1. ```npm install```
