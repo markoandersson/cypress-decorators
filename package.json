@@ -1,0 +1,19 @@
+{
+  "name": "cypress-decorators",
+  "version": "1.0.0",
+  "description": "Learning cypress and JS decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Marko Andersson",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@cypress/browserify-preprocessor": "^2.1.1"
+  }
+}
